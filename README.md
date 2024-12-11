@@ -1,10 +1,10 @@
 # React Travel App Styled with Emotion
 ![screenshot](public/images/emotion.png)
 
-This project is a simple React web application styled using the Emotion CSS-in-JS library. It demonstrates how to use Emotion for styling components, showcasing techniques like the css prop, styled components, composition, theming, and animations.
+This project is a simple React web application styled using the **Emotion CSS-in-JS library.** It demonstrates how to use Emotion for styling components, showcasing techniques like the css prop, styled components, composition, theming, and animations.
 
 ## Introduction
-This project was created as a tutorial on styling React apps using the Emotion library. The application is a travel-themed app featuring three hotel cards. Each card displays:
+This project was created as a tutorial on **styling React apps using the Emotion library.** The application is a travel-themed app featuring three hotel cards. Each card displays:
 
 * A main image
 * A title
